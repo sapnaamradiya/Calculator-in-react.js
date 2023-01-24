@@ -1,0 +1,17 @@
+/* EXTERNAL CSS */
+
+
+
+.stylesheading{
+    padding: 15px ;
+    margin:  15px ;
+    color: rgb(1, 14, 14);
+    background-color: rgb(163, 158, 167);
+}
+
+.stylesinput{
+    padding: 10px ;
+    margin: 10px ;
+    font-size: 15px ;
+    width: 400px ;
+}
